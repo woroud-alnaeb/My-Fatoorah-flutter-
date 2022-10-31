@@ -51,13 +51,37 @@
     },
     {
       "name": "device_info_plus",
-      "rootUri": "file:///home/woroud_alnaeb/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/device_info_plus-8.0.0",
+      "rootUri": "file:///home/woroud_alnaeb/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/device_info_plus-3.2.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "device_info_plus_linux",
+      "rootUri": "file:///home/woroud_alnaeb/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/device_info_plus_linux-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "device_info_plus_macos",
+      "rootUri": "file:///home/woroud_alnaeb/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/device_info_plus_macos-2.2.3",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "device_info_plus_platform_interface",
-      "rootUri": "file:///home/woroud_alnaeb/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/device_info_plus_platform_interface-7.0.0",
+      "rootUri": "file:///home/woroud_alnaeb/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/device_info_plus_platform_interface-2.6.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "device_info_plus_web",
+      "rootUri": "file:///home/woroud_alnaeb/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/device_info_plus_web-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "device_info_plus_windows",
+      "rootUri": "file:///home/woroud_alnaeb/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/device_info_plus_windows-2.1.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -69,9 +93,9 @@
     },
     {
       "name": "ffi",
-      "rootUri": "file:///home/woroud_alnaeb/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/ffi-2.0.1",
+      "rootUri": "file:///home/woroud_alnaeb/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/ffi-1.2.1",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "2.12"
     },
     {
       "name": "file",
@@ -231,7 +255,7 @@
     },
     {
       "name": "win32",
-      "rootUri": "file:///home/woroud_alnaeb/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/win32-3.0.1",
+      "rootUri": "file:///home/woroud_alnaeb/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/win32-2.6.1",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -242,7 +266,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2022-10-31T10:25:19.262497Z",
+  "generated": "2022-10-31T10:30:16.696750Z",
   "generator": "pub",
   "generatorVersion": "2.17.3"
 }
