@@ -112,7 +112,7 @@ class SourceInfo {
     try {
       if (Platform.isAndroid) {
         AndroidDeviceInfo androidInfo = await deviceInfo.androidInfo;
-        id = androidInfo.androidId ?? '';
+        id = androidInfo.id ?? '';
       } else if (Platform.isIOS) {
         IosDeviceInfo iosInfo = await deviceInfo.iosInfo;
         id = iosInfo.identifierForVendor ?? '';
